@@ -18,3 +18,8 @@ The **Flutter Quiz App** is a simple, interactive application designed to test y
    ```bash
    git clone https://github.com/your-username/flutter-quiz-app.git
    cd flutter-quiz-app
+   Install dependencies:
+2. **Run the app**:
+   ```bash
+   flutter pub get
+   flutter run
